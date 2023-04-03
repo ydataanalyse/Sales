@@ -7,7 +7,13 @@ Deuxième constat : Ces deux clients partagent des produits en commun.
 
 Mais l'un performe plus que l'autre, pourquoi ?
 
-La problématique de l'entreprise est donc de comprendre pourquoi l'un des deux clients qui partagent des produits en commun a une meilleure performance commerciale que l'autre, malgré leur même ancienneté. Pour répondre à cette question, j'ai effectué une analyse de données en suivant les étapes suivantes :
+## Problématique
+
+La problématique de l'entreprise est donc de comprendre pourquoi l'un des deux clients qui partagent des produits en commun a une meilleure performance commerciale que l'autre, malgré leur même ancienneté. 
+
+## Méthodologie
+
+Pour répondre à cette question, j'ai effectué une analyse de données en suivant les étapes suivantes :
 
 - Collecte de données 
 
